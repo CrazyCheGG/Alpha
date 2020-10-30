@@ -3,7 +3,7 @@ color 1b
 title GGOS
 cls
 set /p path=<path.txt
-cd %path%/ggos
+cd %path%
 :bootscreen
 
 cls
