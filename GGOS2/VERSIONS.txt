@@ -1,0 +1,18 @@
+Basic OS 1.0.0 - BETA
+Basic OS 1.0.1: Patch 1 - 25-key check
+Basic OS 1.0.2: Patch 2 - Autocheck for 25-key check; Redefining check
+Basic OS 1.0.3: Patch 3 - Easter Eggs; Version
+
+GGOS2: 2.0.0 
+GGOS2: 2.0.1 - added Username
+GGOS2: 2.0.2 - added original.txt
+GGOS2: 2.0.3 - added Windows(R) Run
+GGOS2: 2.0.4 - Bug fixes
+GGOS2: 2.0.5 - added TEST browser
+GGOS2: 2.0.6 - added BasicOS division
+
+BUILDER: 1.0.0
+BUILDER: 1.0.1 - Bug fixes
+BUILDER: 1.0.2 - added BasicOS
+BUILDER: 1.0.3: Patch 1- archives zip/unzip utilizing 25-key
+BUILDER: 1.0.3: Patch 1U- utilizing 25-key and version without 7-zip
