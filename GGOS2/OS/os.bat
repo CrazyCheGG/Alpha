@@ -297,8 +297,8 @@ if %fnc% == 3 goto :Opts
 
 :Read
 cls
-echo. 1) Ggitko Family 3-4 sentences
-echo. 2) Site and OS revision 3-4 sentences
+echo. 1) Test 1
+echo. 2) Test 2
 echo. 3) Yours Article
 echo. 4) Go back
 set /p fnuc= Choose 1, 2, 3 or 4:
@@ -309,13 +309,13 @@ if %fnuc% == 4 goto :GWIKI
 
 :First
 cls
-echo. Welcome to our family. Many of our family are genius in mathematics. We are such as friends. Thanks for reading.
+echo. Blabla
 pause
 goto :Read
 
 :Second
 cls
-echo. Welcome to my technology. My site's first idea was for site of Ggitko Co Inc but it have now some games. OS is for my fun. Thanks for reading.
+echo. Neushd.
 pause
 goto :Read
 
